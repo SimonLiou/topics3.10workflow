@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "example" {
-  bucket = "Simon Liou bucket"
+  bucket = "Simon Keyne Liou bucket"
   tags = {
     Environment = "Dev"
   }
